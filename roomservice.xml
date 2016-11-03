@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
- <project name="TeamHorizon/android_device_lge_d855" path="device/lge/d855" remote="gh" revision="mm" />
- <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="th" revision="mm" />
- <project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="th" revision="mm" />
- <project name="vendor_lge" path="vendor/lge" remote="th" revision="mm" />
- <project name="TeamHorizon/android_device_lge_d850" path="device/lge/d850" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_d851" path="device/lge/d851" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_d852" path="device/lge/d852" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_f400" path="device/lge/f400" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_ls990" path="device/lge/ls990" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_vs985" path="device/lge/vs985" remote="gh" revision="mm" />
- <project name="TeamHorizon/android_device_lge_geehrc" path="device/lge/geehrc" remote="gh" revision="mm" />
- <project name="android_kernel_lge_gee" path="kernel/lge/gee" remote="th" revision="mm" />
- <project name="TeamHorizon/android_device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="gh" revision="mm" />
- <project name="android_kernel_xiaomi_kenzo" path="kernel/xiaomi/kenzo" remote="th" revision="mm" />
- <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="th" revision="mm" />
+ <project name="CyanogenMod/android_device_lge_d855" path="device/lge/d855" remote="gh" revision="cm-14.1" />
+ <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="gh" revision="cm-14.1" />
+ <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="gh" revision="cm-14.1" />
+ <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="gh" revision="cm-14.1" />
+
 </manifest>
